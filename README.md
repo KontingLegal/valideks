@@ -2,7 +2,7 @@
 by persklas for co persklas
 
 
-the cbtx is self explanatory, run it, relect network
+the cbt is self explanatory, run it, relect network
 outside wifi means as is = you are connected to outside wifi aside from the pmma wifi
 pmma wifi means as is
 
